@@ -11,6 +11,8 @@ public class num11 {
         System.out.println("Select the first number to swap (y): ");
         y = inputnum.nextInt();
 
+        System.out.println("--------------------------------------------------------------------");
+
         z = y;
         y = x;
         x = z;
