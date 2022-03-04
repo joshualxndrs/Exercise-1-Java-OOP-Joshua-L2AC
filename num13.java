@@ -28,4 +28,6 @@ public class num13 {
 
         in.close();
     }
+
+    // x1 = NaN || x2 = -Infinity//
 }
