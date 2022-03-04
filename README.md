@@ -9,4 +9,8 @@ Subject: Object Oriented Programming (OOP)
 Language: Java
 <br>
 <br>
-Ignore the class files and tempcoderunner files. Thank You.
+Notes:
+<br>
+- I made 2 alternate solutions for number 12, both are able to give the expected solution.
+<br>
+- Ignore the class files and tempcoderunner files. Thank You.
