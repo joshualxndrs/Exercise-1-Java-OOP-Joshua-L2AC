@@ -8,7 +8,7 @@ public class num11 {
 
         System.out.println("Select the first number to swap (x): ");
         x = inputnum.nextInt();
-        System.out.println("Select the first number to swap (y): ");
+        System.out.println("Select the second number to swap (y): ");
         y = inputnum.nextInt();
 
         System.out.println("--------------------------------------------------------------------");
